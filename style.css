@@ -106,9 +106,7 @@ header {
 .home-img {
   order: 3;
 }
-.home-img img {
-  width: 100%;
-}
+
 .home-text span {
   font-size: var(--medium-font);
   font-weight: 500;
