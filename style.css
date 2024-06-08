@@ -106,7 +106,6 @@ header {
 .home-img {
   order: 3;
 }
-
 .home-text span {
   font-size: var(--medium-font);
   font-weight: 500;
@@ -480,10 +479,9 @@ form textarea {
   .contact-form form{
     width: 300px;
   }
-  .contact-button{
-    margin-left: 25%;
-  }
 }
 .himg{
   border-radius: 50%;
+  width: 80%;
+  height: 80%;
 }
